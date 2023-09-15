@@ -9,3 +9,8 @@ h1 {
 p {
     color: brown;
 }
+
+img {
+    width: 400px;
+    height: 300px;
+}
