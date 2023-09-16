@@ -11,22 +11,27 @@ section {
     align-items: center;
 }
 
-.bg-orange {
-    background-color: orange;
+h2 {
+    color: black;
 }
 
 section.bg-blue {
-    background-color: rgb(87, 94, 185);
+    background-color: blue;
 }
 
-section.bg-red {
+section.bg-orange {
+    background-color: orange;
+}
+
+.bg-red {
     background-color: rgb(227, 50, 50);
 }
 
-section.bg-green {
+.bg-green {
     background-color: rgb(19, 214, 32);
 }
 
-section.bg-yellow {
+.bg-yellow {
     background-color: rgb(218, 235, 31);
 }
+
